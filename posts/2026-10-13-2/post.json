@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-13",
+  "topic": "UPI MDR from 15 Oct 2026 + no charges on UPI up to Rs 2,000 / RuPay debit (PSS Act s.10A notification S.O. 5067(E))",
+  "sources": [
+    "https://www.livelaw.in/top-stories/centre-prohibits-charges-on-upi-transactions-up-to-rs-2000-rupay-debit-card-550015",
+    "https://www.scconline.com/blog/post/2026/09/16/npci-released-upi-mdr-faqs-explained/"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "Law Update · 15 October se lagu",
+      "title": "UPI par **charge**? Pehle sach jaaniye",
+      "subtitle": "Kuch bade merchant payments par fee lagegi — lekin **customer ki jeb se nahi**.",
+      "cite": "**NPCI FAQ** (15 Sept 2026) · Finance Ministry notification **S.O. 5067(E)** (14 Sept 2026)"
+    },
+    {
+      "type": "content",
+      "label": "Kya badla",
+      "title": "Rs 2,000 tak UPI **bilkul free**",
+      "bullets": [
+        "Finance Ministry ki notification: **Rs 2,000 tak ke UPI payment** aur **RuPay debit card** payment par koi bank ya system provider charge nahi le sakta.",
+        "Rok **direct aur indirect**, dono tarah ke charge par hai — paisa bhejne wale aur paane wale, dono ke liye.",
+        "Yeh power Payment and Settlement Systems Act, 2007 ke naye **Section 10A** se aati hai."
+      ]
+    },
+    {
+      "type": "content",
+      "label": "15 October se",
+      "title": "Bade merchant payments par **MDR**",
+      "bullets": [
+        "NPCI FAQ ke mutabiq, **Rs 2,000 se upar** ke chuninda merchant (P2M) UPI payments par **0.4% MDR** lagega, max **Rs 300**.",
+        "Railways, telecom, insurance, fuel jaisi categories mein flat **Rs 5**. Mutual funds aur securities par sirf **0.02%**.",
+        "Example: Rs 3,000 ke payment par merchant **Rs 12** dega. Rs 2,000 tak ke payment par **zero**."
+      ]
+    },
+    {
+      "type": "content",
+      "label": "Aapke liye matlab",
+      "title": "Customer se **ek paisa extra nahi**",
+      "bullets": [
+        "MDR **merchant** bharega. Woh ise customer par **pass nahi kar sakta** — aap sirf likhi hui keemat denge.",
+        "Dost ya family ko paisa bhejna (**P2P**) har amount par free. UPI apps koi **platform fee** nahi le sakti.",
+        "Jis chhote merchant ke QR par mahine mein **Rs 1 lakh tak** aata hai, us par zero MDR. Purana QR badalna nahi padega."
+      ],
+      "note": "Kanoon ka fact: MDR **sarkari tax nahi** hai. NPCI ke mutabiq yeh paisa UPI system, cybersecurity aur fraud rokne par lagega."
+    },
+    {
+      "type": "content",
+      "label": "Dhyan rahe",
+      "title": "Afwaahon se **bachein**",
+      "bullets": [
+        "\"Ab har UPI payment par charge\" — yeh **galat** hai. Fee sirf kuch bade merchant payments par hai, aur woh bhi merchant deta hai.",
+        "Sahi jaankari ke liye sirf **Finance Ministry, RBI, NPCI aur PIB** ke official updates dekhein.",
+        "Yeh post sirf jaankari ke liye hai, legal advice nahi."
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Kanoon samjho, **haq** jaano",
+      "lines": [
+        "Har din ek nayi legal update, aasaan bhasha mein.",
+        "**Save** karein, aur jise zaroorat ho usse **share** karein."
+      ]
+    }
+  ],
+  "caption": "UPI par ab charge lagega? 🤔 Sach yeh hai 👇\n\n15 October 2026 se NPCI ka naya MDR framework lagu ho raha hai. Rs 2,000 se upar ke kuch merchant (P2M) UPI payments par 0.4% fee lagegi — maximum Rs 300. Railways, telecom, insurance, fuel jaisi categories mein flat Rs 5.\n\nLekin yeh fee merchant bharega, aap nahi. Merchant ise customer par daal nahi sakta. Dost/family ko paisa bhejna (P2P) har amount par free hai, aur UPI apps koi platform fee nahi le sakti.\n\n📌 Kanoon kya kehta hai: Finance Ministry ne 14 Sept 2026 ki notification S.O. 5067(E) se Rs 2,000 tak ke UPI payment aur RuPay debit card payment par bank/system provider ke har direct ya indirect charge par rok laga di hai — Payment and Settlement Systems Act, 2007 ke Section 10A ke tahat.\n\nSource: NPCI FAQ (15 Sept 2026) · MoF notification S.O. 5067(E) (14 Sept 2026)\n\nYeh post sirf jaankari ke liye hai, legal advice nahi.\n\nSave karein 🔖 | Share karein 📤 | Follow @legalwithdigvijay\n\n#UPI #DigitalPayments #NPCI #UPICharges #ConsumerRights #LegalAwareness #KanoonKiBaat #LegalWithDigvijay #LawInHindi #IndianLaw #KnowYourRights #RuPay #FinanceMinistry #Hinglish"
+}
