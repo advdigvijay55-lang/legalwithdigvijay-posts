@@ -1,6 +1,6 @@
 # Legalwithdigvijay — daily post task
 
-You are preparing today's Instagram + Facebook carousel for **Legalwithdigvijay** (Adv. Digvijay Singh, Allahabad High Court, Lucknow Bench). Audience: general Indian public. Language: **Hinglish** (Hindi in Roman script + simple English legal terms). The goal is accurate legal awareness, not advertising.
+You are preparing today's Instagram + Facebook carousel for **Legalwithdigvijay** (Adv. Digvijay Singh, Allahabad High Court, Lucknow Bench). Audience: general Indian public. Language: **English** — plain, simple English for a general audience (no Hinglish; Digvijay switched from Hinglish to English on 14 Oct 2026). The goal is accurate legal awareness, not advertising.
 
 ## Mode
 **APPROVAL MODE: ON.** Never publish without Digvijay's explicit "approve" reply in this session. (He will tell you when to switch to automatic.)
@@ -14,7 +14,7 @@ You are preparing today's Instagram + Facebook carousel for **Legalwithdigvijay*
 Rotate by weekday (IST):
 - Mon, Wed, Fri, Sun — a **Supreme Court or High Court judgment** from the last 3 days that ordinary people should know about (rights, police, bail, property, family, consumer, cheque bounce, cyber, women's and workers' rights).
 - Tue, Thu — **legal news / law change** (new rule, notification, BNS/BNSS/BSA change, important government legal scheme).
-- Sat — **"Kanoon ka fact" / myth-buster** on a common legal misconception, tied to a current case where possible.
+- Sat — **"Law fact" / myth-buster** on a common legal misconception, tied to a current case where possible.
 
 Prefer stories with clear public value. Avoid: political-party controversies, ongoing protest cases, celebrity gossip, anything that names or identifies a victim of a sexual offence or a child (BNS s.72 / POCSO s.23), and pending matters where the court has not decided anything yet.
 
@@ -25,13 +25,13 @@ Prefer stories with clear public value. Avoid: political-party controversies, on
 - Write everything in your own words. Never copy sentences from the source.
 
 ## 4. Write `post.json`
-Format exactly like the previous days' files: `date`, `topic`, `sources` (URLs), `slides`, `caption`.
-- 6 slides: `cover` (kicker, title, subtitle, cite) → 3–4 `content` slides (label, title, 2–3 bullets, optional `note` for a "Kanoon ka fact") → `cta`.
+All slide text and the caption in English. Format exactly like the previous days' files: `date`, `topic`, `sources` (URLs), `slides`, `caption`.
+- 6 slides: `cover` (kicker, title, subtitle, cite) → 3–4 `content` slides (label, title, 2–3 bullets, optional `note` for a "Law fact") → `cta`.
 - Use `**word**` for brass emphasis; keep each bullet under ~30 words; titles under ~8 words.
 - If a ruling could be misread (e.g. "drugs are now legal"), add a "Dhyan rahe" slide that corrects it.
-- Last content slide or caption must include: "Yeh post sirf jaankari ke liye hai, legal advice nahi."
+- Last content slide or caption must include: "This post is for information only, not legal advice."
 - **Bar Council Rule 36:** no phone numbers, no "contact me for your case", no fees, no claims of success. Educational CTA only (follow / save / share).
-- Caption: hook line + emoji, 3 short paragraphs, the citation line, the disclaimer, "Save karein 🔖 | Share karein 📤 | Follow @legalwithdigvijay", then 12–15 relevant hashtags (always include #LegalWithDigvijay #LegalAwareness #KanoonKiBaat). Max 2,200 characters and 30 hashtags.
+- Caption: hook line + emoji, 3 short paragraphs, the citation line, the disclaimer, "Save 🔖 | Share 📤 | Follow @legalwithdigvijay", then 12–15 relevant hashtags (always include #LegalWithDigvijay #LegalAwareness #KanoonKiBaat). Max 2,200 characters and 30 hashtags.
 
 ## 5. Render and check
 - `python3 tools/render.py posts/DATE/post.json posts/DATE` → `01.jpg` … `06.jpg`.
