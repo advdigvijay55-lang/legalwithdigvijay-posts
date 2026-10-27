@@ -1,0 +1,15 @@
+From 1 November, your phone will show who is calling, even if the number is not saved 📱⚖️
+
+The Department of Telecommunications (DoT) has directed all mobile operators to roll out Calling Name Presentation (CNAP) from 1 November 2026. It will be on by default on 4G and higher networks, including 5G, so you do not need to apply for it. CNAP on 2G, 3G and landlines will be considered separately.
+
+Which name will you see? If you have saved the number, your saved name appears. If not, you will see the name in the caller's telecom operator's subscriber records. Unsaved numbers from abroad will show "International Call". People who use Calling Line Identification Restriction (CLIR) will not have their names shown. Businesses and bulk users can show a verified name backed by a registered trademark or a GST-registered trade name.
+
+Operators must not keep the caller's name after the call ends and must have a system for complaints about wrong names. But remember: a name on the screen is not proof that the caller is genuine. Fraudsters can still pretend to be someone else, and CNAP is not a complete spam blocker.
+
+Source: DoT circular dated 13 October 2026 on Calling Name Presentation (CNAP), following TRAI's recommendations of February 2024
+
+This post is for information only, not legal advice.
+
+Save 🔖 | Share 📤 | Follow @legalwithdigvijay
+
+#CNAP #CallerID #DoT #TRAI #TelecomRules #SpamCalls #CyberSafety #FraudCalls #DigitalIndia #ConsumerRights #KnowYourRights #IndianLaw #LegalAwareness #KanoonKiBaat #LegalWithDigvijay

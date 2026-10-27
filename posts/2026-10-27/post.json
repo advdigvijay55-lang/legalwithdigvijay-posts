@@ -1,0 +1,68 @@
+{
+  "date": "2026-10-27",
+  "topic": "Law change: caller's name to show on incoming calls from 1 Nov 2026 - DoT directs telecom operators to roll out CNAP (Calling Name Presentation) by default on 4G/5G (DoT circular dated 13 Oct 2026)",
+  "sources": [
+    "https://www.voicendata.com/telecom/dot-sets-november-1-deadline-for-caller-name-display-12681309",
+    "https://inc42.com/buzz/centre-directs-telcos-to-display-caller-names-from-november-1/",
+    "https://lapaasvoice.com/govt-mandates-caller-name-display-from-november-1-what-mobile-users-need-to-know"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "Law change · Telecom · November 2026",
+      "title": "From 1 Nov, see the caller's **name**",
+      "subtitle": "Mobile operators must show the caller's **name** along with the number on **4G and 5G** calls.",
+      "cite": "**DoT circular** dated 13 Oct 2026 · **CNAP** (Calling Name Presentation)"
+    },
+    {
+      "type": "content",
+      "label": "What changed",
+      "title": "On by **default**, no request needed",
+      "bullets": [
+        "The Department of Telecommunications (DoT) has told all operators to start **CNAP** from **1 November 2026**.",
+        "It covers **4G and higher** networks, including 5G. 2G, 3G and landlines will be looked at **separately**.",
+        "You do **not** have to apply. The service is switched on **by default**."
+      ],
+      "note": "**Law fact:** From 1 Nov, the licence meaning of \"calling line identification\" also includes the caller's **name**."
+    },
+    {
+      "type": "content",
+      "label": "Which name appears",
+      "title": "Your **saved contact** comes first",
+      "bullets": [
+        "If you have saved the number, you will see **your saved name**.",
+        "If not, you will see the name in the **caller's telecom operator's subscriber records**.",
+        "An unsaved number from abroad will show **\"International Call\"**."
+      ]
+    },
+    {
+      "type": "content",
+      "label": "Exceptions and privacy",
+      "title": "Some names **won't** be shown",
+      "bullets": [
+        "Users who have **CLIR** (Calling Line Identification Restriction) will **not** have their names displayed.",
+        "Businesses and bulk connections may show a **verified name** backed by a registered **trademark** or a **GST-registered** trade name.",
+        "Operators must **not keep** the caller's name after the call ends, and must handle **complaints** about wrong names."
+      ]
+    },
+    {
+      "type": "content",
+      "label": "Keep in mind",
+      "title": "A name is **not** a guarantee",
+      "bullets": [
+        "A name on screen does **not** prove the caller is genuine. Fraudsters can still **pretend** to be a person or an organisation.",
+        "CNAP is **not** a full spam blocker and does not replace caller ID apps.",
+        "This post is for information only, not legal advice."
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Know the law, know your **rights**",
+      "lines": [
+        "One important legal update every day, in simple words.",
+        "**Save** this, and **share** it with family members who get unknown calls."
+      ]
+    }
+  ],
+  "caption": "From 1 November, your phone will show who is calling, even if the number is not saved 📱⚖️\n\nThe Department of Telecommunications (DoT) has directed all mobile operators to roll out Calling Name Presentation (CNAP) from 1 November 2026. It will be on by default on 4G and higher networks, including 5G, so you do not need to apply for it. CNAP on 2G, 3G and landlines will be considered separately.\n\nWhich name will you see? If you have saved the number, your saved name appears. If not, you will see the name in the caller's telecom operator's subscriber records. Unsaved numbers from abroad will show \"International Call\". People who use Calling Line Identification Restriction (CLIR) will not have their names shown. Businesses and bulk users can show a verified name backed by a registered trademark or a GST-registered trade name.\n\nOperators must not keep the caller's name after the call ends and must have a system for complaints about wrong names. But remember: a name on the screen is not proof that the caller is genuine. Fraudsters can still pretend to be someone else, and CNAP is not a complete spam blocker.\n\nSource: DoT circular dated 13 October 2026 on Calling Name Presentation (CNAP), following TRAI's recommendations of February 2024\n\nThis post is for information only, not legal advice.\n\nSave 🔖 | Share 📤 | Follow @legalwithdigvijay\n\n#CNAP #CallerID #DoT #TRAI #TelecomRules #SpamCalls #CyberSafety #FraudCalls #DigitalIndia #ConsumerRights #KnowYourRights #IndianLaw #LegalAwareness #KanoonKiBaat #LegalWithDigvijay"
+}
