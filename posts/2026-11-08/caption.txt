@@ -1,0 +1,16 @@
+RTO refusing your RC work because of very old traffic challans? Read this 🚗⚖️
+
+The Kerala High Court has held that unpaid traffic challans issued before 1 October 2020 cannot be used to stop vehicle registration work. A car owner who had repaid his car loan asked the RTO to remove the bank's hypothecation entry from his RC. The RTO refused because the car was blacklisted for challans pending over 90 days, all for violations from 2015 to 2019.
+
+Rule 167(7) of the Central Motor Vehicles Rules, 1989, which came into force on 1 October 2020, bars authorities from processing licence and registration applications while a challan is pending. The court said this is a new restriction, so it applies only from that date and not to older challans. Before that date, a pending challan was not by itself a bar to registration. A "not to be transacted" flag on the VAHAN portal cannot stretch the rule either. The RTO was directed to process the request without considering pre-October 2020 challans.
+
+Keep in mind: the old challans are not cancelled by this ruling. And challans issued on or after 1 October 2020 can still hold up licence and registration work if left unpaid.
+
+Case: T. N. Arun Kumar v. Ministry of Road Transport and Highways, 2026:KER:77134, 2026 LiveLaw (Ker) 614
+Bench: Justice Murali Purushothaman, Kerala High Court
+
+This post is for information only, not legal advice.
+
+Save 🔖 | Share 📤 | Follow @legalwithdigvijay
+
+#TrafficChallan #MotorVehiclesAct #RTO #VehicleRegistration #Hypothecation #RoadTransport #KeralaHighCourt #HighCourt #KnowYourRights #ConsumerRights #LegalAwareness #KanoonKiBaat #LegalWithDigvijay
