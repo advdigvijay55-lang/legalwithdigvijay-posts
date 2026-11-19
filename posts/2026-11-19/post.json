@@ -1,0 +1,68 @@
+{
+  "date": "2026-11-19",
+  "topic": "Law change: RBI (Domestic Money Transfer) Directions, 2026 issued 11 Nov 2026, effective immediately - consolidates 2011 and 2024 DMT circulars; existing limits kept: walk-in cash at bank branch up to Rs 50,000 by NEFT to a bank account; via Business Correspondents/ATMs Rs 5,000 per transaction and Rs 25,000 a month per remitter; cash pay-out to people without bank accounts Rs 10,000 per transaction and Rs 25,000 a month per beneficiary; remitter registered with verified mobile number and self-certified OVD; additional factor of authentication for every transaction; cash-remittance identifier; velocity checks, credit alerts, investigation of unusual spikes; complaints under RB-Integrated Ombudsman Scheme, 2026; card-to-card excluded (RBI/DPSS/2026-27/476, under Section 18 read with Section 10(2), Payment and Settlement Systems Act, 2007)",
+  "sources": [
+    "https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13752",
+    "https://www.outlookmoney.com/banking/rbi-revises-domestic-money-transfer-rules-retains-existing-cash-transaction-limits"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "Law change · RBI banking rules",
+      "title": "Sending money **in cash** through a bank?",
+      "subtitle": "RBI has put all the rules for small cash transfers in **one place**.",
+      "cite": "**RBI (Domestic Money Transfer) Directions, 2026** · RBI/DPSS/2026-27/476 · Issued 11 November 2026 · In force immediately"
+    },
+    {
+      "type": "content",
+      "label": "The limits",
+      "title": "How much you can **send**",
+      "bullets": [
+        "At a **bank branch**, a walk-in customer can pay cash and send up to **Rs 50,000** by NEFT to someone's bank account.",
+        "Through a **Business Correspondent** or ATM: up to **Rs 5,000** per transaction and **Rs 25,000 a month** per sender.",
+        "**Cash pay-out** to a person with no bank account: up to **Rs 10,000** per transaction and **Rs 25,000 a month** per receiver."
+      ],
+      "note": "**Law fact:** These limits are **not new**. RBI kept the old limits and merged its 2011 and 2024 circulars into one set of rules."
+    },
+    {
+      "type": "content",
+      "label": "Your identity",
+      "title": "What the **sender** must give",
+      "bullets": [
+        "You are registered with a **verified mobile number** and a self-certified **Officially Valid Document** (OVD), as per RBI's KYC rules.",
+        "Every transaction must be confirmed with an **additional factor of authentication**.",
+        "Your details travel with the NEFT/IMPS message, tagged as a **cash-based transfer**. For cash pay-outs, the bank records the receiver's **name and address**."
+      ]
+    },
+    {
+      "type": "content",
+      "label": "Safety checks",
+      "title": "Banks must **watch for misuse**",
+      "bullets": [
+        "Banks must run **velocity checks** and send **alerts** when money is credited to an account through this facility.",
+        "A sudden **spike in credits** to an account or a group of accounts must be investigated at once. Suspicious transactions go to the authorities.",
+        "Transfers should be **real-time or near real-time**. Banks may charge a reasonable fee."
+      ]
+    },
+    {
+      "type": "content",
+      "label": "Good to know",
+      "title": "Who it covers, **where to complain**",
+      "bullets": [
+        "Applies to commercial banks, regional rural banks, co-operative banks and authorised **payment system operators**.",
+        "Complaints under these rules fall under the **RBI Integrated Ombudsman Scheme, 2026**.",
+        "**Card-to-card** transfers are not covered; separate rules apply.",
+        "This post is for information only, not legal advice."
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Know the law, know your **rights**",
+      "lines": [
+        "One important legal update every day, in simple words.",
+        "**Save** this and **share** it with someone who may need it."
+      ]
+    }
+  ],
+  "caption": "No bank account? You can still send or receive money through a bank 💸🏦\n\nOn 11 November 2026, the Reserve Bank of India issued the RBI (Domestic Money Transfer) Directions, 2026, which apply immediately. They bring the rules for small cash-based money transfers into one place, replacing two older circulars from 2011 and 2024. The limits stay the same: a walk-in customer can pay cash at a bank branch and send up to Rs 50,000 by NEFT to a bank account. Through a Business Correspondent or ATM, the limit is Rs 5,000 per transaction and Rs 25,000 a month per sender. Money can also be paid out in cash to someone with no bank account, up to Rs 10,000 per transaction and Rs 25,000 a month per receiver.\n\nTo use the facility, the sender is registered with a verified mobile number and a self-certified Officially Valid Document under RBI's KYC rules, and every transaction needs an additional factor of authentication. The sender's details go with the NEFT or IMPS message, which is tagged as a cash-based transfer. For cash pay-outs, the bank records the receiver's name and address.\n\nBanks must run velocity checks, alert customers when money is credited, investigate sudden spikes in credits to an account or group of accounts, and report suspicious transactions. Transfers should be real-time or near real-time. Complaints fall under the RBI Integrated Ombudsman Scheme, 2026. Card-to-card transfers are not covered by these rules.\n\nSource: RBI (Domestic Money Transfer) Directions, 2026, RBI/DPSS/2026-27/476, dated 11 November 2026, issued under Section 18 read with Section 10(2) of the Payment and Settlement Systems Act, 2007\n\nThis post is for information only, not legal advice.\n\nSave 🔖 | Share 📤 | Follow @legalwithdigvijay\n\n#RBI #ReserveBankOfIndia #MoneyTransfer #NEFT #IMPS #BankingRules #KYC #DigitalPayments #FinancialInclusion #BankingOmbudsman #KnowYourRights #IndianLaw #LegalAwareness #KanoonKiBaat #LegalWithDigvijay"
+}
