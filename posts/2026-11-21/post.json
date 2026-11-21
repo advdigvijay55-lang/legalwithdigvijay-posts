@@ -1,0 +1,67 @@
+{
+  "date": "2026-11-21",
+  "topic": "Law fact / myth-buster: a missed life insurance premium is not automatically excused - if the premium is not paid within the grace period (here 15 days for monthly mode; one month but not less than 30 days for yearly, half-yearly and quarterly modes, per policy Clause 2), the policy lapses and the insurer can reject a death claim; a bounced auto-debit does not keep the policy alive; Ombudsman's Rs 4 lakh award (Rs 2 lakh sum assured + Rs 2 lakh accident benefit) quashed; LIC v. Mani Ram, (2005) 6 SCC 274 applied (Life Insurance Corporation of India v. The Insurance Ombudsman & 2 Ors., WP(C) No. 135 of 2023, 2026:GAU-AS:16917, Justice Devashis Baruah, Gauhati HC, 12 Nov 2026, reported 20 Nov 2026)",
+  "sources": [
+    "https://www.livelaw.in/high-court/gauhati-high-court/gauhati-high-court-quashes-rs-4-lakh-ombudsman-award-life-insurance-policy-lapses-if-premium-not-paid-within-grace-period-559207",
+    "https://lawchakra.in/high-court/gauhati-high-court/lic-grace-period/"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "Law fact · Myth-buster",
+      "title": "Missed a premium? Your cover may **lapse**",
+      "subtitle": "If a life insurance premium is not paid within the **grace period**, the policy lapses and the family may get **nothing**, says the Gauhati High Court.",
+      "cite": "**LIC v. The Insurance Ombudsman & 2 Ors.** · WP(C) No. 135 of 2023 · 2026:GAU-AS:16917 · Justice Devashis Baruah · Gauhati High Court · 12 Nov 2026"
+    },
+    {
+      "type": "content",
+      "label": "The myth",
+      "title": "\"One missed premium **doesn't matter**\"",
+      "bullets": [
+        "**Fact:** the grace period is the **last chance** to pay. Miss it, and the policy lapses under its own terms.",
+        "If the insured dies **after** the policy has lapsed, the insurer can lawfully **reject** the claim.",
+        "A **bounced auto-debit** does not count as payment and does not stretch the grace period."
+      ]
+    },
+    {
+      "type": "content",
+      "label": "What happened",
+      "title": "A bounced debit, then an **accident**",
+      "bullets": [
+        "A man paid **28** monthly premiums of Rs 1,400 on an LIC policy taken in 2018, through bank auto-debit.",
+        "The 29th premium, due **18 Nov 2020**, bounced for low balance. Nothing was paid in the **15-day** grace period.",
+        "He died in a road accident on **16 Dec 2020**. LIC rejected his wife's claim, saying the policy had lapsed."
+      ]
+    },
+    {
+      "type": "content",
+      "label": "The ruling",
+      "title": "Ombudsman's **Rs 4 lakh** award set aside",
+      "bullets": [
+        "The Insurance Ombudsman had ordered LIC to pay **Rs 4 lakh**: the sum assured plus the accident benefit.",
+        "The High Court said no money is payable under a **lapsed policy**. The award went against the policy terms.",
+        "It followed the Supreme Court's ruling in **LIC v. Mani Ram (2005)**. LIC's petition was allowed."
+      ],
+      "note": "**Law fact:** in this policy, the grace period was **15 days** for monthly premiums and **at least 30 days** for yearly, half-yearly and quarterly ones."
+    },
+    {
+      "type": "content",
+      "label": "Keep in mind",
+      "title": "Check your balance, **check your policy**",
+      "bullets": [
+        "Grace periods depend on **your policy's terms**. Read the conditions and note your premium due dates.",
+        "Under this policy, if the insured died **within** the grace period, the claim stays valid, minus the unpaid premium.",
+        "This post is for information only, not legal advice."
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Know the law, know your **rights**",
+      "lines": [
+        "One important legal update every day, in simple words.",
+        "**Save** this, and **share** it with someone who pays insurance premiums."
+      ]
+    }
+  ],
+  "caption": "Missed a life insurance premium? Your family's cover may be gone 📄⚠️\n\nMyth: \"One missed premium doesn't matter, the insurer will still pay.\" The Gauhati High Court has made it clear that this is wrong. If a premium is not paid within the grace period, the policy lapses under its own terms, and a death claim made after that can be rejected. A bounced auto-debit is not payment and does not extend the grace period.\n\nThe case: a man had paid 28 monthly premiums on an LIC policy through bank auto-debit. His 29th premium, due on 18 November 2020, bounced because of low balance, and nothing was paid in the 15-day grace period. He died in a road accident on 16 December 2020. LIC rejected his wife's claim. The Insurance Ombudsman ordered LIC to pay Rs 4 lakh, but the High Court set that award aside, saying nothing is payable under a lapsed policy. It relied on the Supreme Court's ruling in LIC v. Mani Ram (2005).\n\nWhat to do: know your policy's grace period (in this policy, 15 days for monthly premiums and at least 30 days for other modes), keep enough balance on the due date, and check that every premium has actually been paid.\n\nCase: Life Insurance Corporation of India v. The Insurance Ombudsman & 2 Ors., WP(C) No. 135 of 2023, 2026:GAU-AS:16917\nBench: Justice Devashis Baruah, Gauhati High Court (12 Nov 2026)\n\nThis post is for information only, not legal advice.\n\nSave 🔖 | Share 📤 | Follow @legalwithdigvijay\n\n#LifeInsurance #InsuranceClaim #LIC #GracePeriod #PolicyLapse #InsuranceOmbudsman #ConsumerRights #GauhatiHighCourt #MythBuster #LawFact #KnowYourRights #LegalAwareness #KanoonKiBaat #LegalWithDigvijay"
+}
