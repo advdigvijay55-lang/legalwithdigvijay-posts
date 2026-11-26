@@ -1,0 +1,15 @@
+Soon you may be able to freeze payments from your bank account with one switch 🔒🏦
+
+On 23 November 2026, the Reserve Bank of India released a draft amendment to its Responsible Business Conduct Directions to fight digital banking fraud. The headline idea is a 'stop switch': once you turn it on, no new payment you start can leave your account, no new auto-debit mandate can be set up and UPI cannot be added on a new app. Money coming in still works, and existing recurring mandates and bank debits such as loan EMIs continue.
+
+The draft also lets you set your own limits per transaction, per person you pay, per channel or for the whole day, and switch cards on or off for domestic, international, ATM, shop, online and tap use. Digital channels on new accounts would be off by default until you agree. You may also choose a trusted adult who must approve payments above a limit you set; UPI, shop and recurring payments are excluded, and that person gets no rights in your account.
+
+Remember, this is only a draft. A wider meaning of bank negligence (such as missing alerts or slow action on fraud complaints) is proposed from 1 January 2027, and the customer tools by 1 July 2027 or earlier. Comments are open till 14 December 2026, and the final rules may differ.
+
+Source: RBI draft amendment to the Responsible Business Conduct Directions, issued 23 November 2026 (reported by Business Standard, MediaNama and Business Today, 23-24 November 2026)
+
+This post is for information only, not legal advice.
+
+Save 🔖 | Share 📤 | Follow @legalwithdigvijay
+
+#RBI #DigitalFraud #CyberFraud #OnlineBanking #BankingFraud #StopSwitch #UPI #DebitCard #CreditCard #CustomerRights #KnowYourRights #IndianLaw #LegalAwareness #KanoonKiBaat #LegalWithDigvijay

@@ -1,0 +1,69 @@
+{
+  "date": "2026-11-26",
+  "topic": "Legal news (draft): RBI proposes a 'stop switch' and other customer controls against digital banking fraud - draft amendment to the Responsible Business Conduct Directions (MediaNama: Draft RBI (Commercial Banks - Responsible Business Conduct) Fifth Amendment Directions, 2026), issued 23 Nov 2026; stop switch blocks all future customer-initiated outgoing debits, new mandates and new UPI app registrations, incoming money continues, existing recurring mandates and bank debits like EMIs not covered; customer-set limits per transaction, per beneficiary (e.g. Rs 20,000 a day), per channel and daily; card on/off and limits for ATM, PoS, online, contactless; digital channels off by default for new accounts until consent and authentication; voluntary Trusted Person Mechanism to approve transactions above a customer-set threshold (UPI, merchant and recurring payments excluded), trusted person gets no rights in the account; wider definition of bank negligence (missing alerts, no 24x7 fraud reporting, slow action on complaints) from 1 Jan 2027; customer safeguards by 1 Jul 2027 or earlier; comments till 14 Dec 2026",
+  "sources": [
+    "https://www.business-standard.com/finance/personal-finance/stop-switch-payment-limits-rbi-lists-new-safeguards-against-bank-fraud-126112400518_1.html",
+    "https://www.medianama.com/2026/11/223-rbis-draft-rules-online-fraud/",
+    "https://www.businesstoday.in/personal-finance/story/rbi-proposes-stronger-digital-payment-safeguards-what-could-change-for-bank-customers-569185-2026-11-23"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "Legal news · Banking fraud",
+      "title": "A **'stop switch'** for your bank account",
+      "subtitle": "RBI has proposed new tools so you can **freeze payments** from your account the moment you suspect fraud.",
+      "cite": "**RBI draft amendment to the Responsible Business Conduct Directions** · Issued 23 Nov 2026 · Draft for public comments, not yet in force"
+    },
+    {
+      "type": "content",
+      "label": "The stop switch",
+      "title": "A switch to **block outgoing money**",
+      "bullets": [
+        "Turning it on blocks **all future payments you start** from your account, new auto-debit mandates and adding UPI on new apps.",
+        "Money **coming in** keeps working as usual.",
+        "Existing **recurring mandates** and bank debits like **loan EMIs** are not stopped. You can switch it off again after authentication."
+      ]
+    },
+    {
+      "type": "content",
+      "label": "Your own limits",
+      "title": "You decide **how much can go out**",
+      "bullets": [
+        "Set a cap **per transaction**, **per person** you pay, per channel, or one **daily limit** for all channels.",
+        "Example from the draft: payments to one person capped at **Rs 20,000 a day**, even if the bank allows more.",
+        "Cards: switch **domestic or international** use on or off, and set limits for ATM, shop, online and tap payments."
+      ],
+      "note": "**Law fact:** Under the draft, new accounts get digital payment channels **switched off by default** until you consent and authenticate."
+    },
+    {
+      "type": "content",
+      "label": "Trusted person",
+      "title": "A **second pair of eyes** on big payments",
+      "bullets": [
+        "You may choose a **trusted adult** who must approve payments above a limit you set. It is **voluntary**.",
+        "If they reject it or do not reply in time, the payment **does not go through**.",
+        "They get **no rights** in your account and cannot operate it. **UPI**, shop payments and recurring payments are left out."
+      ]
+    },
+    {
+      "type": "content",
+      "label": "Keep in mind",
+      "title": "This is a **draft**, not law yet",
+      "bullets": [
+        "Banks would be treated as **negligent** for lapses like missing alerts, no 24x7 fraud reporting or slow action on complaints, from **1 Jan 2027**.",
+        "Customer tools are proposed by **1 July 2027**, or earlier if a bank chooses. Final rules may change.",
+        "Public comments are open till **14 Dec 2026**.",
+        "This post is for information only, not legal advice."
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Know the law, know your **rights**",
+      "lines": [
+        "One important legal update every day, in simple words.",
+        "**Save** this and **share** it with anyone who uses net banking or cards."
+      ]
+    }
+  ],
+  "caption": "Soon you may be able to freeze payments from your bank account with one switch 🔒🏦\n\nOn 23 November 2026, the Reserve Bank of India released a draft amendment to its Responsible Business Conduct Directions to fight digital banking fraud. The headline idea is a 'stop switch': once you turn it on, no new payment you start can leave your account, no new auto-debit mandate can be set up and UPI cannot be added on a new app. Money coming in still works, and existing recurring mandates and bank debits such as loan EMIs continue.\n\nThe draft also lets you set your own limits per transaction, per person you pay, per channel or for the whole day, and switch cards on or off for domestic, international, ATM, shop, online and tap use. Digital channels on new accounts would be off by default until you agree. You may also choose a trusted adult who must approve payments above a limit you set; UPI, shop and recurring payments are excluded, and that person gets no rights in your account.\n\nRemember, this is only a draft. A wider meaning of bank negligence (such as missing alerts or slow action on fraud complaints) is proposed from 1 January 2027, and the customer tools by 1 July 2027 or earlier. Comments are open till 14 December 2026, and the final rules may differ.\n\nSource: RBI draft amendment to the Responsible Business Conduct Directions, issued 23 November 2026 (reported by Business Standard, MediaNama and Business Today, 23-24 November 2026)\n\nThis post is for information only, not legal advice.\n\nSave 🔖 | Share 📤 | Follow @legalwithdigvijay\n\n#RBI #DigitalFraud #CyberFraud #OnlineBanking #BankingFraud #StopSwitch #UPI #DebitCard #CreditCard #CustomerRights #KnowYourRights #IndianLaw #LegalAwareness #KanoonKiBaat #LegalWithDigvijay"
+}
